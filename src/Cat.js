@@ -5,7 +5,7 @@ import "./Cat.css"
 const Cat = () => {
     const [restart, setRestart] = useState(false);
     if(restart===true) {
-        return <Navigate to="/" />;
+        return <Navigate to="/catvdog/" />;
     }
     return (
         <div id="catWinner">
