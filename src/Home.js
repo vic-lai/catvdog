@@ -33,10 +33,10 @@ const Home = () => {
     }, [catScore, dogScore])
 
     if(isCatWinner) {
-        return <Navigate to="/catvdog/Cat" />;
+        return <Navigate to="/Cat" />;
     }
     if(isDogWinner) {
-        return <Navigate to="/catvdog/Dog" />;
+        return <Navigate to="/Dog" />;
     }
 
     return (
