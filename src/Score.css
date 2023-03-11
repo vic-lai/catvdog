@@ -1,0 +1,9 @@
+#score {
+    display:flex;
+    justify-content:space-around;
+    font-size:30px;
+}
+
+img {
+    width:100px;
+}

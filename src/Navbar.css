@@ -1,0 +1,7 @@
+.navbar {
+    border-style: solid none;
+    border-width:5px;
+    line-height:.5;
+    height:170px;
+    background-color:black;
+}

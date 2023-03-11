@@ -1,0 +1,48 @@
+.pics {
+    display:flex;
+    justify-content:space-around;
+}
+
+img[alt="cat"]:hover, img[alt="dog"]:hover {
+    transform:scale(1.2);
+}
+
+#dogLoading {
+    position:absolute;
+    right:20%;
+    top:40%;
+    font-size:40px;
+}
+
+#catLoading {
+    position:absolute;
+    left:20%;
+    top:40%;
+    font-size:40px;
+}
+
+img[alt="cat"] {
+    position:absolute;
+    left:15%;
+    top:40%;
+    width:400px;
+    height:400px;
+    object-fit:cover;
+    transition: transform .5s ease-in-out;
+    border-radius:25px;
+}
+
+img[alt="dog"] {
+    position:absolute;
+    right:15%;
+    top:40%;
+    width:400px;
+    height:400px;
+    object-fit:cover;
+    transition: transform .5s ease-in-out;
+    border-radius:25px;
+}
+
+h1 {
+    font-size:50px;
+}

@@ -1,0 +1,24 @@
+#dogBackground {
+    background-image: linear-gradient(to bottom, red, yellow);
+    top:0;
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index:-1;
+}
+
+#dogGif {
+    width:200px;
+    margin-bottom:100px;
+}
+
+#text {
+    font-size:100px;
+}
+
+#dogWinner {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    line-height:1;
+}
