@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/catvdog/static/css/main.d32341be.css",
-    "main.js": "/catvdog/static/js/main.657dc8e2.js",
+    "main.js": "/catvdog/static/js/main.19f6f278.js",
     "index.html": "/catvdog/index.html",
     "main.d32341be.css.map": "/catvdog/static/css/main.d32341be.css.map",
-    "main.657dc8e2.js.map": "/catvdog/static/js/main.657dc8e2.js.map"
+    "main.19f6f278.js.map": "/catvdog/static/js/main.19f6f278.js.map"
   },
   "entrypoints": [
     "static/css/main.d32341be.css",
-    "static/js/main.657dc8e2.js"
+    "static/js/main.19f6f278.js"
   ]
 }
